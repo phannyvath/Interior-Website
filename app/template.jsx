@@ -31,7 +31,6 @@ const Template = ({ children }) => {
         style={{ transform: `translateY(${completion}%)` }} // Adjusted transform
         className="fixed z-50 bg-primary w-2 top-0 right-0 bottom-0 transition-all duration-700"
       ></span>
-      <div className="h-[2500px]"></div>
     </>
   );
 };
