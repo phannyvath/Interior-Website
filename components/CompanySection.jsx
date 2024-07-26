@@ -1,5 +1,5 @@
 "use client";
-import { desVariants, tagVariants, titleVariants } from "../../utils/animation";
+import { desVariants, tagVariants, titleVariants } from "../utils/animation";
 import Badge from "./Badge";
 import { motion } from "framer-motion";
 

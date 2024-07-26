@@ -3,7 +3,7 @@
 import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
-import { desVariants } from "../../utils/animation";
+import { desVariants } from "../utils/animation";
 
 const AboutComponent = () => {
   return (

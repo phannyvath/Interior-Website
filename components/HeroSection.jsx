@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { Button } from "./ui/button";
 import { TbArrowUpRight } from "react-icons/tb";
-import { desVariants, tagVariants, titleVariants } from "../../utils/animation";
+import { desVariants, tagVariants, titleVariants } from "../utils/animation";
 import { motion } from "framer-motion";
 
 const HeroSection = () => {
